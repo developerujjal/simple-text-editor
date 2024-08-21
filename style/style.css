@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #199dfb85;
+    padding: 0rem 18rem;
+}
+
+.content-main-container{
+    border: 2px solid black;
+    background-color: #BDDAFC;
+}
+
+.icons-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 1rem;
+}
+
+.sub-container i, .sub-container span{
+    padding-right: 14px;
+}
+
+.sub-container span{
+    display: inline-block;
+}
+
+section.icons-stuff {
+    border-bottom: 2px solid black;
+    margin: 0px 13px;
+}
+
+
+header h1{
+    text-align: center;
+}
+
+.textarea-container {
+    padding: 12px 0px;
+    margin: 0 auto;
+}
+
+
+.box-field-section{
+    margin: 0px 15px;
+}
+
+
+section#box-field-section {
+    margin: 0px 13px;
+}
+
