@@ -21,7 +21,8 @@ body {
 }
 
 .sub-container i, .sub-container span{
-    padding-right: 14px;
+    padding: 5px 8px;
+    transition: background-color .3s;
 }
 
 .sub-container span{
@@ -57,4 +58,10 @@ section#box-field-section {
 .textarea-container .text-field{
     width: 99%;
     height: 300px;
+    font-size: 20px;
+}
+
+.sub-container i:hover, .sub-container span:hover{
+    background-color: #ddd;
+    cursor: pointer;
 }
