@@ -54,7 +54,7 @@ section#box-field-section {
 }
 
 
-.textarea-container textarea{
+.textarea-container .text-field{
     width: 99%;
     height: 300px;
 }
