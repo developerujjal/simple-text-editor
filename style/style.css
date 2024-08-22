@@ -53,3 +53,8 @@ section#box-field-section {
     margin: 0px 13px;
 }
 
+
+.textarea-container textarea{
+    width: 99%;
+    height: 300px;
+}
